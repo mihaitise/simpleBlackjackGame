@@ -1,2 +1,2 @@
 # simpleBlackjackGame
-I've created a simple Blackjack console game, written in Javascript.
+I've created a simple Blackjack game, written in Javascript.
