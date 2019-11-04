@@ -1,2 +1,6 @@
 /* Styles go here */
 
+body {
+   text-align: center;
+   padding: 3em 0;
+}
